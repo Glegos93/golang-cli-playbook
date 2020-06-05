@@ -1,3 +1,3 @@
 package module7
 
-//go:generate echo goimports -w module7_code.go
+//go:generate goimports -w module7_code.go
